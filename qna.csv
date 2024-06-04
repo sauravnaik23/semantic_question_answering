@@ -1,0 +1,63 @@
+Questions,Answers
+What is cloud computing?,"Cloud computing is the delivery of computing services over the internet, allowing for on-demand access to resources such as servers, storage, databases, and software."
+What are the different types of cloud deployment models?,"The main types of cloud deployment models are public cloud, private cloud, hybrid cloud, and multi-cloud."
+What is IaaS?,"IaaS (Infrastructure as a Service) provides virtualized computing resources over the internet, allowing users to rent servers, storage, and networking components."
+What is PaaS?,"PaaS (Platform as a Service) provides a platform allowing customers to develop, run, and manage applications without the complexity of building and maintaining the infrastructure."
+What is SaaS?,"SaaS (Software as a Service) delivers software applications over the internet, on a subscription basis, eliminating the need for installations and maintenance."
+What is a public cloud?,A public cloud is a cloud infrastructure that is open for use by the general public and is owned by an organization selling cloud services.
+What is a private cloud?,"A private cloud is a cloud infrastructure operated solely for a single organization, offering more control over data, security, and compliance."
+What is a hybrid cloud?,"A hybrid cloud combines public and private clouds, allowing data and applications to be shared between them."
+What is multi-cloud?,"Multi-cloud refers to the use of multiple cloud computing services in a single architecture, often from different providers."
+What are cloud service providers?,"Cloud service providers are companies that offer network services, infrastructure, or business applications in the cloud. Examples include AWS, Microsoft Azure, and Google Cloud."
+What is cloud migration?,"Cloud migration is the process of moving data, applications, or other business elements to a cloud computing environment."
+What are the benefits of cloud computing?,"Benefits include cost savings, scalability, flexibility, disaster recovery, and the ability to access resources from anywhere."
+What are the main security concerns with cloud computing?,"Concerns include data breaches, loss of control over data, and compliance with regulatory requirements."
+What is a virtual machine?,A virtual machine (VM) is an emulation of a computer system that provides the functionality of a physical computer.
+What is containerization?,"Containerization is a form of virtualization that packages applications and their dependencies into containers, allowing them to run consistently across different environments."
+What is Kubernetes?,"Kubernetes is an open-source platform for automating the deployment, scaling, and management of containerized applications."
+What is serverless computing?,Serverless computing is a cloud computing execution model where the cloud provider dynamically manages the allocation of machine resources.
+What is edge computing?,"Edge computing brings computation and data storage closer to the location where it is needed, to improve response times and save bandwidth."
+What is a cloud-native application?,"A cloud-native application is designed to leverage cloud computing frameworks, ensuring better resilience and scalability."
+What is DevOps?,DevOps is a set of practices that combine software development (Dev) and IT operations (Ops) to shorten the development lifecycle and provide continuous delivery.
+What is a cloud API?,A cloud API is an interface that allows developers to connect and interact with cloud services programmatically.
+What is cloud elasticity?,Cloud elasticity is the ability of a cloud service to automatically scale computing resources up or down as needed.
+What is a cloud workload?,"A cloud workload refers to a specific application, service, or task that consumes cloud computing resources."
+What is cloud bursting?,Cloud bursting is a configuration that allows an application to run in a private cloud or data center and 'burst' into a public cloud when the demand for computing capacity spikes.
+What is cloud orchestration?,"Cloud orchestration is the automated arrangement, coordination, and management of complex cloud computing tasks and services."
+What is cloud monitoring?,"Cloud monitoring involves the process of reviewing, observing, and managing the operational workflow in a cloud-based IT infrastructure."
+What is cloud security?,"Cloud security encompasses the technologies, policies, controls, and services that protect cloud data, applications, and infrastructure."
+What is a hypervisor?,A hypervisor is software that creates and runs virtual machines by separating the underlying hardware from the virtual machines.
+What is a cloud service level agreement (SLA)?,"A cloud service level agreement (SLA) is a contract between a cloud service provider and a customer that specifies the expected level of service, performance, and availability."
+What is a cloud access security broker (CASB)?,A cloud access security broker (CASB) is a software tool or service that sits between cloud service users and cloud applications to monitor and enforce security policies.
+What is a cloud-native architecture?,"Cloud-native architecture refers to designing systems that fully exploit the advantages of the cloud, such as microservices, containers, and dynamic orchestration."
+What is cloud cost management?,"Cloud cost management involves the process of monitoring, controlling, and optimizing cloud spending."
+What is a cloud region?,A cloud region is a specific geographical location where cloud services are hosted.
+What is a cloud availability zone?,"A cloud availability zone is an isolated location within a cloud region, providing redundancy and fault tolerance."
+What is cloud data residency?,Cloud data residency refers to the physical or geographical location of an organization's data in the cloud.
+What is cloud governance?,Cloud governance involves the policies and processes used to manage and control the use of cloud services within an organization.
+What is a virtual private cloud (VPC)?,"A virtual private cloud (VPC) is a private cloud environment within a public cloud, providing a higher level of isolation and control."
+What is cloud disaster recovery?,Cloud disaster recovery involves storing and maintaining copies of data and applications in a cloud environment to ensure business continuity in case of a disaster.
+What is Infrastructure as Code (IaC)?,Infrastructure as Code (IaC) is the process of managing and provisioning computing infrastructure using machine-readable scripts or definition files.
+What is a cloud-based data lake?,A cloud-based data lake is a centralized repository that allows you to store all your structured and unstructured data at any scale.
+What is a cloud-based data warehouse?,"A cloud-based data warehouse is a system used for reporting and data analysis, hosted on cloud infrastructure."
+What is cloud-native security?,Cloud-native security refers to security solutions and practices designed specifically for cloud environments.
+What is a managed service provider (MSP)?,A managed service provider (MSP) is a company that manages a customer's IT infrastructure and end-user systems on a subscription basis.
+What is the difference between cloud and on-premises?,"Cloud computing relies on internet-based servers and services, while on-premises involves local servers and infrastructure."
+What is an API gateway?,"An API gateway is a server that acts as an API front-end, handling requests, transforming protocols, and providing security."
+What is cloud native development?,"Cloud native development involves creating applications optimized for cloud environments, leveraging microservices, containers, and dynamic orchestration."
+What is a cloud service mesh?,A cloud service mesh is a dedicated infrastructure layer for facilitating service-to-service communications between microservices.
+What is cloud-native CI/CD?,"Cloud-native CI/CD (Continuous Integration/Continuous Delivery) refers to the automated processes and tools used to develop, test, and deploy software in a cloud environment."
+What is cloud sprawl?,"Cloud sprawl refers to the uncontrolled proliferation of an organization's cloud instances, services, or providers, leading to inefficiencies."
+What is a cloud marketplace?,"A cloud marketplace is an online store where customers can find, buy, and deploy cloud-based applications and services."
+What is a cloud-native network?,"A cloud-native network is designed to support the dynamic, scalable, and distributed nature of cloud-native applications."
+What is an auto-scaling group?,An auto-scaling group is a collection of cloud instances that automatically adjusts the number of running instances based on demand.
+What is a cloud-native firewall?,A cloud-native firewall is a security solution specifically designed to protect cloud-native environments and workloads.
+What is cloud application performance management (APM)?,Cloud APM involves monitoring and managing the performance and availability of software applications in cloud environments.
+What is cloud-native storage?,Cloud-native storage refers to storage solutions that are optimized for cloud-native applications and environments.
+What is a microservice?,"A microservice is a small, independent, and loosely coupled service that performs a specific function within a cloud-native application."
+What is cloud-native observability?,Cloud-native observability involves the tools and practices used to gain visibility into cloud-native applications and infrastructure.
+What is a cloud-native API?,"A cloud-native API is designed to be highly scalable, flexible, and optimized for cloud environments."
+What is a cloud-native database?,"A cloud-native database is designed to leverage cloud infrastructure for scalability, flexibility, and high availability."
+What is a serverless architecture?,"A serverless architecture allows developers to build and run applications without managing servers, where the cloud provider handles the infrastructure."
+What is cloud-native logging?,"Cloud-native logging involves collecting, storing, and analyzing log data generated by cloud-native applications and infrastructure."
+What is a cloud-native load balancer?,A cloud-native load balancer distributes incoming network traffic across multiple cloud instances to ensure high availability and reliability.
